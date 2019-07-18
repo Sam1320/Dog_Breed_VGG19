@@ -11,11 +11,11 @@ Convolutional Neural Network(CNN) project for Udacity's [Machine Learning Engine
 
 **VGG16 & VGG19** 
 
-<img src="https://github.com/Sam1320/Dog_Breed_VGG19/blob/master/VGG_image.png">
+<img src="https://github.com/Sam1320/Dog_Breed_VGG19/blob/master/VGG_image.png" height="350">
 
 **My Architecture**
 
-<img title="My Architecture" src="https://github.com/Sam1320/Dog_Breed_VGG19/blob/master/Fine_tuning.png">
+<img title="My Architecture" src="https://github.com/Sam1320/Dog_Breed_VGG19/blob/master/Fine_tuning.png" height="350">
 
 
 ## Completed Project & Evaluation
